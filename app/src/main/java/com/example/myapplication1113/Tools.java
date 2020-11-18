@@ -7,7 +7,7 @@ import android.widget.Toast;
 
 public class Tools {
     /**
-     * 日志打印
+     * 工具类日志打印方法
      * @param msg
      */
     public static void log(String msg) {
